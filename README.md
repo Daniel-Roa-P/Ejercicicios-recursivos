@@ -1,4 +1,4 @@
-# Ejercicicios-recursivos
+# Ejercicios-recursivos
 
 En el actual repositorio se encuentran varios ejercicios en python que hacen uso de la recursividad con el proposito de simular la forma en la que se programa en el legnguaje Haskell, esto con el fin de no hacer uso de asignaciones ni estados.
 
